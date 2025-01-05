@@ -14,7 +14,7 @@ echo.
 pause
 echo.
 
-echo Welcome to the BTDB2 Exp Grinder
+echo Welcome to BTDExp
 echo Make sure you have already ran the setup script (SETUP.bat)
 echo Also make sure that BTDB2 is running in windowed mode, instead of fullscreen
 echo To stop the script at any time, simply close this window
