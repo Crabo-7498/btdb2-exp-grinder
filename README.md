@@ -1,24 +1,29 @@
-Bloons TD Battles 2 EXP Grinder
-===============================
-
-All questions about installation, contribution, etc. should be sent to `crabo_#7498` on Discord
-
-If you do happen to use this software, please give it a star (it would help alot)
+<div align='center'>
+	<h1 align='center'>BTDExp</h1>
+	<img
+	    src="https://img.shields.io/github/license/vincent-qc/btdexp?style=for-the-badge"
+	    alt="License"
+	/>
+	<img
+		src='https://img.shields.io/github/languages/top/vincent-qc/btdexp.svg?style=for-the-badge'
+		alt='Language'
+	/>
+</div>
 
 ## About
+> This project is deprecated and no longer maintained. 
 
-NOTICE: This is a project currently under development. THE CURRENT BUILD IS OUTDATED, AN UPDATE WILL COME SHORTLY<br>
-
-Due to the grindy nature of exp in btdb2, we decided to create a bot that will help you win and earn exp for btdb2
+BTDExp is an automation software built with [pyautogui](https://github.com/asweigart/pyautogui) to automatically grind exp for towers in Bloons Tower Defense Battles 2. Due to the poorly implemented exp system of the game, newer players are often unable to use the towers they desired without monetary purchases of boosts. BTDExp agentically plays the game, and thus generates exp for towers while the player is away.
 
 ## Installation
-Consult [The Installation Guide](docs/INSTALLATION.md)
 
-## Contributing (TODO)
-- When creating a pull request, please compare it to the `dev branch`
+Both Mac and Windows versions of the game are supported. Mobile versions, however, are not supported.
 
-## Credits
+For instructions on how to install, consult the [installation guide](docs/INSTALLATION.md).
 
-**Contributors**
-- [Crabo-7498](https://github.com/Crabo-7498)
+## Contributors
+The primary contributors to this project are:
+- [vincent-qc](https://github.com/vincent-qc)
 - [SirGru001](https://github.com/SirGru001)
+
+All code in this project is maintained under the [MIT License](./LICENSE.md).
